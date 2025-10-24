@@ -52,6 +52,8 @@ The frontend communicates with the backend via HTTP requests, making the two par
 
 The application follows a classic client-server model, which is standard for modern web development.
 
+<img src="https://github.com/jorgepiconjr/FullStack-Spring-React-ShopApp/blob/master/pictures/architecture.jpg?raw=true" alt="Architecture Overview" width="400" height="400"/>
+
 ## Backend Service Details
 
 The `shop-spring-backend` project acts as a central service that exposes a REST API for managing products in database. Its responsibilities are clearly defined:
@@ -75,11 +77,19 @@ The `shop-spring-backend` project acts as a central service that exposes a REST 
 
 ## Screenshots
 
-**Homepage / Product List**
-![Homepage](screenshots/homepage.png)
+Note: 
+- If images are not available, refresh the page and wait a few seconds.
+- Strange colors and effects are not real, they were produced from "ghosting" due to low GIF quality.
 
-**Product Detail Page**
-![Product Detail](screenshots/product-detail.png)
+**Overview**
 
-**Update Product Form**
-![Update Form](screenshots/update-form.png)
+<img src="https://github.com/jorgepiconjr/FullStack-Spring-React-ShopApp/blob/master/pictures/overview.gif" alt="Architecture Overview" width="700" height="700"/>
+
+**Create, Delete, Update Products**
+
+<img src="https://github.com/jorgepiconjr/FullStack-Spring-React-ShopApp/blob/master/pictures/create-delete-update.gif" alt="cdu" width="700" height="700"/>
+
+**Cart & Purchase**
+
+<img src="https://github.com/jorgepiconjr/FullStack-Spring-React-ShopApp/blob/master/pictures/cart-purchase.gif" alt="cart" width="700" height="700"/>
+

@@ -77,7 +77,7 @@ The `shop-spring-backend` project acts as a central service that exposes a REST 
 
 ## Screenshots
 
-Note: 
+Note: To see the GIF in action
 - If images are not available, refresh the page and wait a few seconds.
 - Strange colors and effects are not real, they were produced from "ghosting" due to low GIF quality.
 

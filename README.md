@@ -1,4 +1,4 @@
-# Full-Stack Shop Application
+# Full-Stack Shop Web-App
 
 A complete Shop web application built with a decoupled frontend using **React** and a robust backend service powered by **Spring Boot**. The project demonstrates a full-stack architecture, from UI rendering to REST API communication and data persistence in database.
 
